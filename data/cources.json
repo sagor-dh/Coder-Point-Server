@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Html for Beginners",
+        "img":"https://iili.io/DvZwhl.md.png",
+        "price":400,
+        "rating":{
+            "total_rating":20,
+            "rating_reviwe":4.5
+        },
+        "detalis":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
+        "duration":"4 Mohth"
+    },
+    {
+        "id":2,
+        "name":"Javascript for Beginners",
+        "img":"https://iili.io/DvZV7s.md.png",
+        "price":400,
+        "rating":{
+            "total_rating":20,
+            "rating_reviwe":4.5
+        },
+        "detalis":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+        "duration":"6 Mohth"
+    },
+    {
+        "id":3,
+        "name":"Php for Beginners",
+        "img":"https://iili.io/DvZZ41.md.png",
+        "price":400,
+        "rating":{
+            "total_rating":20,
+            "rating_reviwe":4.5
+        },
+        "detalis":"PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group.",
+        "duration":"6 Mohth"
+    },
+    {
+        "id":4,
+        "name":"Python for Beginners",
+        "img":"https://iili.io/DvZD3F.md.png",
+        "price":400,
+        "rating":{
+            "total_rating":20,
+            "rating_reviwe":4.5
+        },
+        "detalis":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+        "duration":"6 Mohth"
+    },
+    {
+        "id":5,
+        "name":"Java for Beginners",
+        "img":"https://iili.io/DvZWkG.png",
+        "price":400,
+        "rating":{
+            "total_rating":20,
+            "rating_reviwe":4.5
+        },
+        "detalis":"Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "duration":"6 Mohth"
+    },
+    {
+        "id":6,
+        "name":"css for Beginners",
+        "img":"https://iili.io/DvZM2n.md.png",
+        "price":400,
+        "rating":{
+            "total_rating":20,
+            "rating_reviwe":4.5
+        },
+        "detalis":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "duration":"4 Mohth"
+    }
+]
